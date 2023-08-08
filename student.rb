@@ -16,7 +16,7 @@ class Student
     end
 end 
 
-s1 = Student.new('Vinny', 'Kodandaraochelleapilli@gmail.com', '3852169161') #  ob
+s1 = Student.new('Vinny', 'Kodanda.chelleapilli@gmail.com', '3852169161') #  ob
 s1.print_name
 s1.print_contact
 s1.print_email
